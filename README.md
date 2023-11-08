@@ -13,7 +13,7 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackpoint&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=hackpoint&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <hr/>
 [![My Skills](https://skillicons.dev/icons?i=angular,lit,dotnet,cs,nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,ts,js,jest,html,css,sass,wasm,aws,gcp,azure,github,git,gitlab,graphql&perline=10)](https://skillicons.dev)
