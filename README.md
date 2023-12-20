@@ -17,6 +17,6 @@
 
 <hr/>
 
-![Visitor Count](https://profile-counter.glitch.me/HackPoint/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/HackPoint/badge-it)](https://badges.pufler.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,lit,dotnet,cs,nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,ts,js,jest,html,css,sass,wasm,aws,gcp,azure,github,git,gitlab,graphql&perline=10)](https://skillicons.dev)
