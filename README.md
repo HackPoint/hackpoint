@@ -15,6 +15,7 @@
 
 [![HackPoint's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackPoint)](https://github.com/HackPoint/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <hr/>
 
 [![Visits Badge](https://badges.pufler.dev/visits/HackPoint/badge-it)](https://badges.pufler.dev)
