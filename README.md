@@ -19,7 +19,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/HackPoint/badge-it)](https://badges.pufler.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,lit,dotnet,cs,nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,ts,js,jest,html,css,sass,wasm,aws,gcp,azure,github,git,gitlab,graphql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,lit,dotnet,cs,rust,ai,pytorch,nodejs,express,nestjs,fastapi,postgres,mongodb,redis,rabbitmq,ts,js,jest,html,css,sass,wasm,aws,gcp,azure,github,git,gitlab,graphql&perline=10)](https://skillicons.dev)
 
 <hr/>
 📧 Contact Me
@@ -33,9 +33,5 @@
   </a>
 </div>
 
-📜 License
-This repository is licensed under the MIT License. Feel free to use and contribute to the projects.
-
-<hr/>
 
 ⭐️ Thank you for visiting my GitHub! Feel free to explore my projects and connect with me!
